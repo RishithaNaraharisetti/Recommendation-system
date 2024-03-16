@@ -1,0 +1,6 @@
+Problem statement.
+
+Build a recommender system by using cosine simillarties score.
+
+
+Please refer Recommendation System.ipynb
